@@ -1,0 +1,9 @@
+network:
+  ssid: "MyNetwork"
+  password: "MyPassword"
+
+devices:
+  - name: "Device1"
+    type: "Sensor"
+  - name: "Device2"
+    type: "Actuator"
